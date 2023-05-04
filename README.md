@@ -76,7 +76,7 @@ Following this, a multi-page dashboard was created with buttons altering between
 The first page from the dashboard is as follows:
 
 <p align="center">
-  <img src="dash_l.PNG" alt="Example image" style="display: block; margin: 0 auto;">
+  <img src="dash_1.PNG" alt="Example image" style="display: block; margin: 0 auto;">
 </p>
 
 This page uses filters for pizza category and pizza type and shows the main stats regarding the orders. A heat map is created using conditional formatting in a matrix with the time to the nearest hour as the columns and the day names as the rows. The heat map shows how the most number of orders seem to be around lunch and specifically at 1pm.
@@ -106,7 +106,7 @@ It showed that the Brie Carrie pizza seemed to be doing the worst when it comes 
 
 A stacked bar chart was also included showing the average prices of the pizzas by name and size. This chart showed that the Brie carie pizza which was at the bottom for both revenue and orders was actually only sold in the size small and its price was higher than the other pizzas, a potential cause for the low performance. 
 
-The full dashboard can be viewed [here]():
+The full dashboard can be viewed [here](https://app.powerbi.com/links/otNeiqkPqM?ctid=402d2a37-422a-4cb6-9563-6afdf0cd3a39&pbi_source=linkShare):
 
 
 
