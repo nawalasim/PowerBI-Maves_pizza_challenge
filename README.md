@@ -106,7 +106,7 @@ It showed that the Brie Carrie pizza seemed to be doing the worst when it comes 
 
 A stacked bar chart was also included showing the average prices of the pizzas by name and size. This chart showed that the Brie carie pizza which was at the bottom for both revenue and orders was actually only sold in the size small and its price was higher than the other pizzas, a potential cause for the low performance. 
 
-The full dashboard can be viewed [here](https://app.powerbi.com/links/otNeiqkPqM?ctid=402d2a37-422a-4cb6-9563-6afdf0cd3a39&pbi_source=linkShare):
+The full dashboard can be viewed [here](https://app.powerbi.com/links/otNeiqkPqM?ctid=402d2a37-422a-4cb6-9563-6afdf0cd3a39&pbi_source=linkShare): 
 
 
 
